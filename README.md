@@ -11,7 +11,7 @@ This is the Arduino code. An ISP header on the board allows the microcontroller 
 These are the Eagle files for the PCB. To order PCBs, gerbers need to be generated using a CAM job in Eagle. A free version of Eagle is available.
 
 ### masterClockParts_xx.md
-This is the parts list. A Mouser BOM is available at.
+This is the parts list. A Mouser BOM is available at in this file as well.
 
 ### masterClock.ai
 This is the panel in Adobe Illustrator format. This can be used to manufacture a panel.
