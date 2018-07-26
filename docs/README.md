@@ -1,8 +1,4 @@
-## [Overview](#Overview) 
-
-## [Design](#Design) 
-
-## [Buy](#Buy)
+## [Overview](#overview) | [Design](#design) | [Buy](#buy)
 
 # Overview
 
