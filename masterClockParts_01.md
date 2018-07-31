@@ -1,6 +1,6 @@
 # Parts List
 
-Mouser BOM: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=93608E039F
+Mouser BOM: https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=d6ebbab981
 
 | Name | Part | Package | Source |
 | --- | --- | --- | --- |

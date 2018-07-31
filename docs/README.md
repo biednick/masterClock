@@ -10,4 +10,4 @@ Controlled by an ATMega 328 (the same chip used by the Arduino Uno) this module 
 
 # Buy
 
-I'll be updating this part soon with a link to buy on Reverb.
+I'll be updating this part soon with a link to buy PCBs on Reverb. For the time being you can email me to purchase development PCBs at a discount. These will be fully functional but have minor issues. 
