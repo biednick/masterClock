@@ -1,7 +1,7 @@
 # Master Clock
 
 ## Features
-This module features tap tempo, 1x, 2x, 3x, 4x, 1/2x, 1/3x, and 1/4x clock multiplication/division, and the ability to dial in the clock rate using a potentiometer. A second mode disables tap tempo and allows rate to be adjusted directly using the potentiometer.
+This module features tap tempo, 1x, 2x, 3x, 4x, 1/2x, 1/3x, and 1/4x clock multiplication/division, and the ability to dial in the clock rate using a potentiometer. A second mode disables tap tempo and allows rate to be adjusted directly using the potentiometer or allows the module to be used as a standard clock mutiplier/divider..
 
 ## Files
 ### Master_Clock_xx.ino
