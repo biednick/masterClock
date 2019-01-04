@@ -17,5 +17,9 @@ This is the parts list. A Mouser BOM is available at in this file as well.
 This is the panel in Adobe Illustrator format. This can be used to manufacture a panel.
 
 ## Updates
+
+### 01.1 03JAN19
+The original code had major issues with timing. That code has been replaced with a test version of the code that keeps time correctly but only allows the tempo to be set using the potentiometer. All pin deffinitions were left in place to facilitate adding additonal code to meet the desired funsitonality. In additon, I have discovered the anode on LD1 (the bicolor LED) is not connected to VCC. This can be fixed with a jumper wire and will be corrected in the next board revition. 
+
 ### 01 24JUN18
 First push to GitHub. Currently this design is untested.
